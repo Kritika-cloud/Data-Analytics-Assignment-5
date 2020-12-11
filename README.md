@@ -19,7 +19,4 @@ Step 5:
 The function was called by passing name of dataframe and number of rows as the arguments<br/>
 Step 6:
 Extracting top 1000 records and importing them in a separate csv file using .to_csv
-=======
-The function was called by passing name of dataframe and number of rows as the arguments
 
->>>>>>> c0ea8cca99df11e423caa7ef78c694f274a5292f
