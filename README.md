@@ -15,8 +15,6 @@ value_counts() function was used to count the distribution of channels<br/>
 Step4:
 A function named first_1000 was defined by generalising the above two lines of code<br/>
 Step 5:
-<<<<<<< HEAD
-<<<<<<< HEAD
 The function was called by passing name of dataframe and number of rows as the arguments<br/>
 Step 6:
 Extracting top 1000 records and importing them in a separate csv file using .to_csv
