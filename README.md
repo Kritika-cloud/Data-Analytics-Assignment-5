@@ -16,5 +16,4 @@ Step4:
 A function named first_1000 was defined by generalising the above two lines of code<br/>
 Step 5:
 The function was called by passing name of dataframe and number of rows as the arguments
-Step 6:
-Extracting top 1000 records and importing them in a separate csv file using .to_csv
+
