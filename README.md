@@ -2,6 +2,10 @@
 
 ## Explaining Python Code
 Main Aim:To make a function to find out distribution of top 1000 youtube channels<br/>
+#Inserting Image
+![Youtube](https://user-images.githubusercontent.com/75749963/101848986-c5e65480-3b24-11eb-9a13-6df5d583cbca.jpeg)
+
+
 Step1:
 Data was loaded into dataframe named raw_df using pandas<br/>
 Step2:
